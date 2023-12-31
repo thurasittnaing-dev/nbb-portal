@@ -1,0 +1,37 @@
+.my-ratio {
+    width: 100%!important;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10vh;
+    padding: 10vh 2rem 0 2rem;
+}
+.brand-container {
+    display: flex;
+    justify-content: center;
+}
+
+.brand-img {
+    width: 100%;
+    height: 5rem;
+}
+
+.rounded-circle {
+    width: 2rem;
+    height: 2rem;
+}
+
+.cth {
+    background-color: #5D86FC!important;
+    color: #fff;
+}
+
+#loader-btn {
+    cursor: not-allowed;
+    display: none;
+}
+
+.highlight {
+    background-color: yellow;
+}
